@@ -15,9 +15,8 @@ namespace ADOP_Project_Part_B_News.Services
     public class NewsService
     {
         HttpClient httpClient = new HttpClient();
-        readonly string apiKey = "d318329c40734776a014f9d9513e14ae";
         //Your API key
-        //readonly string apiKey = "";
+        readonly string apiKey = "";
 
         public NewsService()
         {
