@@ -8,7 +8,7 @@
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="Project Part B" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Label Text="News in Xamarin.Forms" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="News in MAUI" FontSize="Title" Padding="30,10,30,10"/>
         <Label Text="This part of the project is about making a simple MAUI Application of the console news service made in project part A2." 
                FontSize="16" Padding="30,0,30,0"/>
         <Label Text="Select a city and give it a try!" FontSize="16" Padding="30,0,30,0"/>
